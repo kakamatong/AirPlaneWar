@@ -26,6 +26,7 @@ export class Main extends Component {
     start () {
         // [3]
         console.log("hello word")
+        console.log("test")
     }
 
     onClickBg(event:EventTouch, msg:string){
